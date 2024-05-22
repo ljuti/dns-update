@@ -22,4 +22,5 @@ serde_urlencoded = "0.7.1"
 
 [dev-dependencies]
 tokio = { version = "1", features = ["full"] }
+mockito = "0.30.0"
 base64 = "0.22"
